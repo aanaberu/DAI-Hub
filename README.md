@@ -7,7 +7,7 @@ What DAI-Hub ?
 TBA
 
 
-# References for Redhat
+# References from Redhat 
 
 
 # Myths ( Courtesy Redhat) 
