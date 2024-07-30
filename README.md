@@ -3,7 +3,8 @@ Provide details on what DAI Hub is about
 
 What DAI-Hub ?
 
-# Myths ( Courtesy Redhat) [link Dev Redhat Articale](https://developers.redhat.com/articles/2024/07/22/5-myths-about-platform-engineering-debunked#myth__2__platform_engineering_sacrifices_security_and_governance_for_speed)
+# Myths ( Courtesy Redhat) 
+[Link to Reference Redhat Blog](https://developers.redhat.com/articles/2024/07/22/5-myths-about-platform-engineering-debunked#myth__2__platform_engineering_sacrifices_security_and_governance_for_speed)
 
 #1 Platform engineering slows down development
 Platform engineering, when implemented correctly, is designed to be a productivity booster, not a creativity crusher. One of the main goals of platform engineering is to enhance developer experience. This leads to developers being more effective and capable of delivering secure, stable, and supported code sooner, which in turn provides greater business agility, innovation, and reduced time to market.
