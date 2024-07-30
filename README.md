@@ -3,6 +3,13 @@ Provide details on what DAI Hub is about
 
 What DAI-Hub ?
 
+# Details
+TBA
+
+
+# References for Redhat
+
+
 # Myths ( Courtesy Redhat) 
 [Link to Reference Redhat Blog](https://developers.redhat.com/articles/2024/07/22/5-myths-about-platform-engineering-debunked#myth__2__platform_engineering_sacrifices_security_and_governance_for_speed)
 
@@ -55,7 +62,8 @@ Organizations can begin with a small-scale platform engineering implementation, 
 By adopting platform engineering practices, even in a limited way, organizations lay the groundwork for a more efficient and scalable development environment in the future. 
 
 # Reference 
-## What Janus-Redhat Hub?
+## What Janus-Redhat Hub? 
+[Link Red Hat Developer Hub](https://developers.redhat.com/rhdh/overview)
 
 A unified platform that can consolidate these elements of the development process and foster internal collaboration will enable development teams to focus on rapidly enhancing code and functionality to efficiently build high-quality software.
 
