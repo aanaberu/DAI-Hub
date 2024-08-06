@@ -42,6 +42,8 @@ Provide details on what DAI Hub is about
 
 What DAI-Hub ?
 
+[DAI HUB Journey](https://devopsai.sharepoint.com/:p:/r/sites/digital-ai-pm/Shared%20Documents/General/Products/Release%20and%20Deploy/Strategy/platform-engineering/Developer-Experince-With-Backstage/Digitalai-PlatformEngineering.pptx?d=w9fe784657e584df3889b4973cad725df&csf=1&web=1&e=3hRxhY)
+
 # Details
 TBA
 
