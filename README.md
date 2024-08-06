@@ -13,13 +13,30 @@ Backstage unifies all your infrastructure tooling, services, and documentation t
 - Backstage TechDocs for making it easy to create, maintain, find, and use technical documentation, using a "docs like code" approach
 
 ## Benefits of backstage
-- For engineering managers, it allows you to maintain standards and best practices across the organization, and can help you manage your whole tech ecosystem, from migrations to test certification.
+- For **engineering managers**, it allows you to maintain standards and best practices across the organization, and can help you manage your whole tech ecosystem, from migrations to test certification.
 
-- For end users (developers), it makes it fast and simple to build software components in a standardized way, and it provides a central place to manage all projects and documentation.
+- For **end users (developers)**, it makes it fast and simple to build software components in a standardized way, and it provides a central place to manage all projects and documentation.
 
-- For platform engineers, it enables extensibility and scalability by letting you easily integrate new tools and services (via plugins), as well as extending the functionality of existing ones.
+- For **platform engineers**, it enables extensibility and scalability by letting you easily integrate new tools and services (via plugins), as well as extending the functionality of existing ones.
 
-- For everyone, it’s a single, consistent experience that ties all your infrastructure tooling, resources, standards, owners, contributors, and administrators together in one place.
+- For **everyone**, it’s a single, consistent experience that ties all your infrastructure tooling, resources, standards, owners, contributors, and administrators together in one place.
+
+
+### Software Catalog
+
+- The Backstage Software Catalog is a centralized system that keeps track of ownership and metadata for all the software in your ecosystem (services, websites, libraries, data pipelines, etc). The catalog is built around the concept of metadata YAML files stored together with the code, which are then harvested and visualized in Backstage.
+
+**Example as to how it works :
+**
+The Backstage Software Catalog is a centralized system that keeps track of ownership and metadata for all the software in your ecosystem (services, websites, libraries, data pipelines, etc). 
+The catalog is built around the concept of metadata YAML files stored together with the code, which are then harvested and visualized in Backstage.
+
+Core usecase that it handles:
+1) Helping teams manage and maintain the software they own. Teams get a uniform view of all their software; services, libraries, websites, ML models — you name it, Backstage knows all about it.
+2) Makes all the software in your company, and who owns it, discoverable. No more orphan software hiding in the dark corners of your software ecosystem.
+
+
+
 
 # DAI-Hub
 Provide details on what DAI Hub is about
