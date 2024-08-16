@@ -40,11 +40,53 @@ Core usecase that it handles:
 # DAI-Hub
 Provide details on what DAI Hub is about
 
+Customer :
+It doesn’t matter if the company relies 100% on public cloud services or its datacenter is fully on-prem, the requirement is still there: a frictionless onboarding of developers that must push into production code as a core business in the most qualitative, safe, and quick way possible.
+
+Gartner ref:
+"Cloud management platforms (CMPs) enable organizations to manage private, public and multicloud services and resources. Their functionality combines provisioning and orchestration; service request management; inventory and classification; monitoring and analytics; cost management and resource optimization; cloud migration; backup and disaster recovery; and identity, security and compliance. Functionality can be provided by a single product or a set of offerings with some degree of integration. — Gartner"
+
+Why Customer wants their own Platfrom ?
+Every enterprise company has a different use case: different tools, different processes, different code collaboration models, different organizations, and different skills.
+
+Why Customer looks for backstage ?
+Teams want most adopted industrial standard that enterprise companies are targeting. A standard that is vendor-neutral, open-source, and with a well-defined governance for contributors and maintainers. Does the word ‘Kubernetes’ ring you a bell?
+Teams are also realizing that the need for HUB is to embrace not only application developers but also infrastructure and operations.
+
+Gatner defination of internal developer platfrom ?
+"Gartner defines internal developer portals as tools that enable self-service discovery, automation and access to reusable components, tools, platform services and knowledge assets in modern software development environments. The portals help improve developer experience and service reliability while enabling centralized governance and shared visibility across multiple teams. Capabilities include service and resource catalogs, scorecards to benchmark software quality and security, scaffolding templates for building new components and plug-ins for integrating with platform services. Platform engineering teams provide the portal to product development teams either as a stand-alone application or as integral components of DevOps platforms and broader internal developer platforms."
+
+
 What DAI-Hub ?
+
+- DAI Hub is a self-service, internal developer platform designed to empower organizations by providing the tools needed to scale DevOps, information security, operations management, and software engineering practices. It can be self-hosted and managed, allowing teams to enhance their productivity and innovation
+- DAI Hub - natively integrated with Release, offers a wide range of capabilities, including visibility into running releases across the organization. This integration ensures that teams can manage and monitor their release processes more effectively.
+- DAI Hub – with native integration into Deploy, DAI Hub provides visibility into application deployments across various providers, managing the entire lifecycle from start to finish. This feature ensures that deployments are consistent, secure, and well-documented.
+- DAI Hub - Release templates feature will provide pre-built templates that streamline the release process, enabling teams to quickly set up and manage their release pipelines.
+- DAI Hub - Release workflows with DAI Hub offers capabilities that enable platform teams to scale DevOps practices effectively. It empowers product teams to innovate faster by using templatized workflows, which reduce setup time and minimize errors.
+- DAI Hub - Release Integrations Out-of-the-box support is provided for third-party integrations, essential for various areas of the DevOps lifecycle, including security (SAST, SCA, Image Scanning, DAST) and compliance. These integrations are available through the Digital.ai Integrations Marketplace, ensuring that teams have access to the tools they need.
+- DAI Hub - Release embedded analytics with DAI Hub includes out-of-the-box support for various metrics, including DORA metrics and Flow metrics, providing teams with the insights needed to optimize their processes and improve performance
+- DAI Hub - Release Application management, This feature facilitates comprehensive application management, ensuring that applications are properly maintained, monitored, and optimized throughout their lifecycle
+
+
 
 [DAI HUB Journey](https://devopsai.sharepoint.com/:p:/r/sites/digital-ai-pm/Shared%20Documents/General/Products/Release%20and%20Deploy/Strategy/platform-engineering/Developer-Experince-With-Backstage/Digitalai-PlatformEngineering.pptx?d=w9fe784657e584df3889b4973cad725df&csf=1&web=1&e=3hRxhY)
 
-# Details
+# Gains in Areas 
+
+1. Expediting manual and repetitive work
+2. Jump starting the first draft of new workflow , template
+3. Accelerating updates to existing workflow and template
+4. incresing developers ablity to tackle new challenges
+
+# Emmbedded Analytics in DAI HUB
+
+1. Helps to diagonise and fix issues faster (DORA) and reduce technical debt and improve quality
+2. Testing and documents, Test generation and higher code coverage means fewer defects and regression.with better doc reduce congnitive load and improve team efficiency
+3. * Help analyse data and allocate resource more effectively ( Resource analytics)
+
+
+# Details 
 TBA
 
 
